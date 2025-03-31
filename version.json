@@ -1,1 +1,6 @@
-{"app_name":"United","version":"1.0.1","build_number":"1","package_name":"United"}
+{
+  "app_name": "United",
+  "version": "1.0.1",
+  "build_number": "1",
+  "package_name": "United"
+}
