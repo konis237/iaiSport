@@ -8116,7 +8116,7 @@ _.c=c
 _.d=d},
 amJ(a){var s,r,q,p,o,n,m,l=t.N,k=A.q(l,t.vx)
 for(s=J.aS(a);s.t();){r=s.gP(s)
-q=r.b
+if(r.as){q=r.b
 p=r.d
 o=r.f
 n=r.r
@@ -8125,7 +8125,7 @@ p=r.e
 m=r.ga3v(0)
 if(m==="V")m="D"
 else m=m==="D"?"V":"N"
-A.b_D(k,q,p,n,o,m,r.z,r.Q)}return A.a7(["standings",A.bcy(new A.b9(k,k.$ti.h("b9<2>"))),"matchesByDay",A.bcz(a)],l,t.z)},
+A.b_D(k,q,p,n,o,m,r.z,r.Q)}}return A.a7(["standings",A.bcy(new A.b9(k,k.$ti.h("b9<2>"))),"matchesByDay",A.bcz(a)],l,t.z)},
 bcy(a){var s,r,q=A.q(t.N,t.rh)
 for(s=a.a,s=new A.cp(s,s.r,s.e);s.t();){r=s.d
 J.hK(q.bx(0,r.a,new A.amE()),new A.jh(r))}q.a8(0,new A.amF())
